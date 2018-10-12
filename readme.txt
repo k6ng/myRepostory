@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git 
 Git push 
 test dev branch AND simple and simple
-inndd merge issue
+ddd insert merge issue
